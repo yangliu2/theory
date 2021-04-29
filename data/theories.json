@@ -1,0 +1,10 @@
+{
+    "theories":[
+        {
+            "name": "earth_round",
+            "theory": "earth is round",
+            "entities": ["earth"],
+            "description": ["round"]
+        }
+    ]
+}

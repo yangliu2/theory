@@ -1,0 +1,6 @@
+name,theory,entities,description
+earth_round,earth is round,earth,round
+solid_not_move_through,cannot move through a solid object,solid,not able to move through it
+four_seasons,there are four seasons in a year,season:year,four seasons in a year
+water_flows,water flows from a higher place to a lower place,water:higher place:lower place,flow from a higher place to a lower place
+three_month_season,a season have three months,season:month,three months in a season

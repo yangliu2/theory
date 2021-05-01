@@ -1,7 +1,7 @@
 from re import search
 import argparse
 import logging
-from typing import List, Dict
+from typing import List
 from pprint import pprint
 from googlesearch import search
 from tqdm import tqdm
